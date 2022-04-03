@@ -18,7 +18,8 @@ A resolução dos desafios foi desenvolvida na linguagem Java e está organizada
 
 Os desafios podem ser testados sem a necessidade de instalar e configurar uma IDE localmente, para isto, basta acessar o link abaixo e rodar cada um dos
 algoritmos individualmente, abaixo de cada script a um botão chamado 'RUN', você pode clicar nele e ver os resultados:
-link-> https://www.online-java.com/lHYv6aQsWt
+link-> <a href="https://www.online-java.com/lHYv6aQsWt" target="_blank">Acesse aqui</a>
+
 
 ## 🚀 Como executar
 
