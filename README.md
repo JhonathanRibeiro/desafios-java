@@ -22,7 +22,7 @@ link-> https://www.online-java.com/lHYv6aQsWt
 
 ## 🚀 Como executar
 
-- Clonar este projeto `...`
+- Clonar este projeto `https://github.com/JhonathanRibeiro/desafio-idevs.git`
 - Navegar até o diretório `cd desafio-idevs` e abrir com o VScode
 - Estando com o projeto aberto no VSCode, logo abaixo do nome da classe é exibido a opção 'Run | Debug' que é disponibilizada após a instalação da extensão **Extension Pack for Java** sugerida anteriormente.
 - ![image](https://user-images.githubusercontent.com/37172038/160838005-7e83a727-607e-4bf9-826e-52d9b71d1400.png)
