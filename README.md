@@ -1,5 +1,3 @@
-<h1 align="center">Desafio de Programação – IDevS</h1>
-
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -13,13 +11,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é composto pela resolução de três desafios propostos pelo processo seletivo do Programa IDevS! <br>
+Este projeto é composto pela resolução de três desafios<br>
 A resolução dos desafios foi desenvolvida na linguagem Java e está organizada em três arquivos, Main1, Main2 e Main3.
 
 Os desafios podem ser testados sem a necessidade de instalar e configurar uma IDE localmente, para isto, basta acessar o link abaixo e rodar cada um dos
 algoritmos individualmente, abaixo de cada script a um botão chamado 'RUN', você pode clicar nele e ver os resultados:
 link-> <a href="https://www.online-java.com/lHYv6aQsWt" target="_blank">Acesse aqui</a>
-
 
 ## 🚀 Como executar
 
